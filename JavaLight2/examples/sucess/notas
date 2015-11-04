@@ -1,0 +1,9 @@
+- Nao pode declarar e atribuir ao mesmo tempo. 
+
+ex.: int a = 1;
+
+- Todo IF deve ter um ELSE
+
+- NAo pode declarar variaveis dentro dos IF`s, se quiser, faca fora!
+
+- 
